@@ -20,3 +20,18 @@
 ### Miscellaneous Chores
 
 * Init git ([b13198e](https://github.com/slucky31/SemVer/commit/b13198e98f1c86ecc73d1513e4733db83db1c1c4))
+
+
+<a name="1.1.0"></a>
+## [1.1.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.1.0) (2024-01-21)
+
+### Features
+
+* asdgqgqsg ([#5](https://www.github.com/slucky31/SemVer/issues/5)) ([2447638](https://www.github.com/slucky31/SemVer/commit/2447638b9cb8e5a9ff218c594a67cd3988f7046c))
+* nsqggsfld ([#4](https://www.github.com/slucky31/SemVer/issues/4)) ([5b7415c](https://www.github.com/slucky31/SemVer/commit/5b7415c362827020e705d339fea6d637b8cf6c3a))
+* versionize ([#3](https://www.github.com/slucky31/SemVer/issues/3)) ([6e61a59](https://www.github.com/slucky31/SemVer/commit/6e61a59ba70757a9ed16634e5cdb63fdfdff84a8))
+
+### Other
+
+* feat : toto (#2) ([5a66b2a](https://www.github.com/slucky31/SemVer/commit/5a66b2a9da8d92e0797365130bdc42230f22982e))
+
