@@ -39,4 +39,4 @@ jobs:
           release-type: simple
           package-name: sharpgl
           extra-files: |
-                      ./SemVer/SemVer.csproj
+                      SemVer/SemVer.csproj
