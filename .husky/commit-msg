@@ -1,0 +1,4 @@
+husky run --name "commit-message-linter" --args "$1"
+echo
+echo Great work! 🥂
+echo
