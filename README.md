@@ -1,3 +1,4 @@
 # SemVer
 
-Test versiononig automatique avec versionize
+Test versiononig automatique avec versionize.
+Test
