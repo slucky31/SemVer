@@ -22,6 +22,17 @@
 * Init git ([b13198e](https://github.com/slucky31/SemVer/commit/b13198e98f1c86ecc73d1513e4733db83db1c1c4))
 
 
+<a name="1.2.0"></a>
+## [1.2.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.2.0) (2024-01-23)
+
+### Features
+
+* Enforce good PR ([#7](https://www.github.com/slucky31/SemVer/issues/7)) ([ffce10b](https://www.github.com/slucky31/SemVer/commit/ffce10b6ba6fa8136bc7bcd8a2eb735e9ce50cda))
+
+### Other
+
+* Husky (#6) ([a664118](https://www.github.com/slucky31/SemVer/commit/a664118379765402997125890433e80307decbdd))
+
 <a name="1.1.0"></a>
 ## [1.1.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.1.0) (2024-01-21)
 
