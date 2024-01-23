@@ -22,6 +22,18 @@
 * Init git ([b13198e](https://github.com/slucky31/SemVer/commit/b13198e98f1c86ecc73d1513e4733db83db1c1c4))
 
 
+<a name="1.2.1"></a>
+## [1.2.1](https://www.github.com/slucky31/SemVer/releases/tag/v1.2.1) (2024-01-23)
+
+### Bug Fixes
+
+* docs ([#9](https://www.github.com/slucky31/SemVer/issues/9)) ([5b0764c](https://www.github.com/slucky31/SemVer/commit/5b0764c522759f1785d9f6310cd2582a600cbb81))
+* test force push ([#10](https://www.github.com/slucky31/SemVer/issues/10)) ([a1bd17b](https://www.github.com/slucky31/SemVer/commit/a1bd17ba5ef7079264a54267095b3610b5b2bffd))
+
+### Other
+
+* Readme update ([#8](https://www.github.com/slucky31/SemVer/issues/8)) ([ec3fc88](https://www.github.com/slucky31/SemVer/commit/ec3fc8834e7dde9d388d73bd980e385fc685e3a5))
+
 <a name="1.2.0"></a>
 ## [1.2.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.2.0) (2024-01-23)
 
