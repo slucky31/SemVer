@@ -11,4 +11,8 @@
     <Authors>Nicolas DUFAUT</Authors>    
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Serilog.AspNetCore" />
+  </ItemGroup>
+
 </Project>
