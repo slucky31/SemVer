@@ -22,6 +22,17 @@
 * Init git ([b13198e](https://github.com/slucky31/SemVer/commit/b13198e98f1c86ecc73d1513e4733db83db1c1c4))
 
 
+<a name="1.3.0"></a>
+## [1.3.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.3.0) (2024-02-09)
+
+### Features
+
+* Renovate/configure ([#13](https://www.github.com/slucky31/SemVer/issues/13)) ([e500ccf](https://www.github.com/slucky31/SemVer/commit/e500ccf926a15ef83a55895efd4fa1f2c7f6da23))
+
+### Other
+
+* Configure Renovate ([#11](https://www.github.com/slucky31/SemVer/issues/11)) ([14c6db6](https://www.github.com/slucky31/SemVer/commit/14c6db648d9d32f4e2889508fd6709bfa3c4b711))
+
 <a name="1.2.1"></a>
 ## [1.2.1](https://www.github.com/slucky31/SemVer/releases/tag/v1.2.1) (2024-01-23)
 
