@@ -22,6 +22,13 @@
 * Init git ([b13198e](https://github.com/slucky31/SemVer/commit/b13198e98f1c86ecc73d1513e4733db83db1c1c4))
 
 
+<a name="1.4.0"></a>
+## [1.4.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.4.0) (2024-02-09)
+
+### Features
+
+* DirectoryPackage ([#15](https://www.github.com/slucky31/SemVer/issues/15)) ([bd043c5](https://www.github.com/slucky31/SemVer/commit/bd043c589b92f341c79e33f98fdf35fac372e1dc))
+
 <a name="1.3.0"></a>
 ## [1.3.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.3.0) (2024-02-09)
 
