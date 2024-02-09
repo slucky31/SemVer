@@ -22,6 +22,17 @@
 * Init git ([b13198e](https://github.com/slucky31/SemVer/commit/b13198e98f1c86ecc73d1513e4733db83db1c1c4))
 
 
+<a name="1.4.1"></a>
+## [1.4.1](https://www.github.com/slucky31/SemVer/releases/tag/v1.4.1) (2024-02-09)
+
+### Bug Fixes
+
+* renovate tuning ([#17](https://www.github.com/slucky31/SemVer/issues/17)) ([50e0f32](https://www.github.com/slucky31/SemVer/commit/50e0f32f2744550a27c2d6583b63c469a7e14eef))
+
+### Other
+
+* **deps:** update dependency serilog.aspnetcore to v8.0.1 ([0c4c604](https://www.github.com/slucky31/SemVer/commit/0c4c604627875c204ccfb490184f246e17cc3363))
+
 <a name="1.4.0"></a>
 ## [1.4.0](https://www.github.com/slucky31/SemVer/releases/tag/v1.4.0) (2024-02-09)
 
